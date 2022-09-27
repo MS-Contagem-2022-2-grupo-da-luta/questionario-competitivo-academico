@@ -1,3 +1,0 @@
-# questionario-competitivo-academico
-
-
