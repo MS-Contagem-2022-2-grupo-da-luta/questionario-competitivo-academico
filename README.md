@@ -156,7 +156,17 @@ O objetivo deste documento é registrar todos os artefatos que compõem a modela
       <td>RFN5</td>
       <td>O site deve ficar online 24 horas por dia, 365 dias no ano</td>
       <td>Alta</td>
+    </table>
     
+  
+  <h3>Protótipo</h3>
+  O protótipo completo com simulação de navegação, encontra-se disponível no figma, através do link:
+   https://www.figma.com/file/OOab6uN1F6ltpFiIgBvNKa/Untitled?node-id=0%3A1
+   
+   
+  
+  
+   
+       
  
 
-Link para protitpo no Figma: https://www.figma.com/file/OOab6uN1F6ltpFiIgBvNKa/Untitled?node-id=3%3A74
