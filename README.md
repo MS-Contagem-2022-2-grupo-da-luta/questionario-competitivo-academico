@@ -169,39 +169,39 @@ O objetivo deste documento é registrar todos os artefatos que compõem a modela
   
   A fazer
  
- ##6 Caso de Teste
+ ## 6 Caso de Teste
  
  A fazer
  
- ##7 Cenários de Casos de Uso
+ ## 7 Cenários de Casos de Uso
  
  A fazer
 
-##8 Diagramas de Casos de Uso
+## 8 Diagramas de Casos de Uso
 
 Feito. Falta fazer postar.
 
-##9 Diagramas de Classes
+## 9 Diagramas de Classes
 
 Feito. Falta fazer postar.
 
-##10 Diagrama de atividades
+## 10 Diagrama de atividades
 
 Feito. Falta fazer postar.
 
-##11 Diagrama de Sequencia
+## 11 Diagrama de Sequencia
 
 Feito. Falta fazer postar.
 
-##12 Diagrama Entidade Relacionamento
+## 12 Diagrama Entidade Relacionamento
 
 A fazer
 
-##13 Diagrama Modelo Relacional
+## 13 Diagrama Modelo Relacional
 
 A fazer
 
-##14 Modelo Fisico SQL
+## 14 Modelo Fisico SQL
 
 Nao precisa fazer
 
