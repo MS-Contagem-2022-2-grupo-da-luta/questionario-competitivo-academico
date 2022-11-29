@@ -60,7 +60,7 @@ O objetivo deste documento é registrar todos os artefatos que compõem a modela
 |     RF-10    |                            O usuário   realiza questões de interesse     |           Alto    |
 
 </hr>
-<h3>Requisitos Não Funcionais</h3>
+<h3>4.2 Requisitos Não Funcionais</h3>
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |       ID      |                                                         Descrição                                                        |     Prioridade    |
@@ -70,3 +70,37 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |      RNF-0    |                                              O site deverá respeitar a LGPD                                              |     Alta          |
 |     RNF-04    |       O site deve ser compatível com   os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)     |     Alta          |
 |     RNF-05    |                                O site deve ficar online 24   horas por dia, 365 dias no ano                              |     Alta          |
+
+<h2>5. Protótipo</h3>
+
+O protótipo completo com simulação de navegação, encontra-se disponível no Figma, clicando [aqui].(https://www.figma.com/file/OOab6uN1F6ltpFiIgBvNKa/Untitled?node-id=0%3A1)
+
+<hr>
+
+<h2>História de usuários</h2>
+
+
+|     ID            |     Eu como…                            |     Quero..                                                                                                   |     Para..                                                                            |
+|-------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|     01 (RF1)      |     Estudante do Ensino médio           |     Comunicar-me com outros estudantes                                                                        |     Conversar com pessoas que partilham o mesmo   interesse de estudo                 |
+|     02 (RF3)      |     Professor de escola pública         |     Criar e publicar questões para estudantes responderem                                                     |     Mensurar a qualidade e dificuldades das minhas   questões                         |
+|     03 (RF4)      |     Entusiasta de sites de Questões     |     Poder ter um perfil pessoal personalizado                                                                 |     Para mostrar o meu nível academico, meus   interesses, etc                        |
+|     04 (RF5)      |     Estudante competitivo               |     Desafiar outros alunos para um teste de   conhecimento                                                    |     Disputar com outras pessoas afim de comparer   meu nivel de conhecimento          |
+|     05 (RF7)      |     Graduando em Medicina               |     Ter acesso a quetões especificas da área da   biomedicina                                                 |     Estudar de maneira eficiente afim de ter um   melhor aproveitamento nas provas    |
+|     06 (RF8)      |     Estudante de concurso público       |     Poder pesquisar por questões que atendam meus   interesses                                                |     Estudar e encontrar assuntos que gosto de   aprender                              |
+|     07 (RF9)      |     Formando do Ensino Médio            |     Salvar questões favoritas para revisá-las posteriormente                                                  |     Manter o conhecimento sobre determinada   questão sempre “fresco” na mente        |
+|     08 (S/ RF)    |     Pai de estudante do Ensino médio    |     Que meu filho possa interagir com outros   alunos no contexto do estudo  e   aprendizado                  |     Que meu filho tenha mais interesse em estudar                                     |
+|     09 (S/ RF)    |     Amante de Biologia                  |     Ter acesso a um banco de questões gigante e   atualizado sobre Biologia                                   |     Para me manter informado sobre as melhores   questões da Biologia                 |
+|     10            |     Entusiasta em Cálculo               |     Poder responder e disputar com outros usuários   sobre o conhecimento que tange a Matemática e Cálculo    |     Colocar a prova meus conhecimentos sobre   Matemática                             |
+<hr>
+
+<h2>6.1 Teste de Aceitação</h2>
+
+|     ID do User Story    |                 Nome                |     Importância    |     PH    |                                                                         Como Demonstrar                                                                        |     Notas    |
+|:-----------------------:|:-----------------------------------:|:------------------:|:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------:|
+|          01 e 08        |        Comunicar com usuários       |          10        |      5    |            O usuário após logar-se, vai até a página do   perfil do pessoal, abre a aba do chat e seleciona o usuário no qual quer   enviar mensagem           |              |
+|            02           |             Criar Questão           |         8,5        |      7    |                              Em seu perfil, o usuário clica em “Área de   Criação” e após a página aberta, clica em “Criar Questão”                            |              |
+|            03           |          Personalizar Perfil        |          10        |      3    |     O usuário após ou durante a criação do perfil,   pode selecionar todas as informações pessoais relevante, desde onde nasceu   até a área no qual estuda    |              |
+|          04 e 10        |         Disputar com usuários       |          10        |      7    |               O usuário    na página do perfil, clica em “Banco de Questões”, depois em “Desafiar   Usuário(s) e seleciona com quem quer competir              |              |
+|        05, 06, 09       |     Pesquisar e filtrar questões    |          10        |      5    |                  O usuário ao clicar em “banco de questões” tem   disponível um filtro, no qual ele seleciona de acordo com a área de interesse                |              |
+|            07           |          Favoritar questões         |          7         |      2    |                          O usuário após resolver a questão, tem a opção   de favoritar e ter ela destacada na área “Questões Favoritas”                        |              |
