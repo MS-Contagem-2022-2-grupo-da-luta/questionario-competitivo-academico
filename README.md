@@ -138,7 +138,7 @@ O Diagrama de Sequencia pode ser encontrado [Aqui](https://drive.google.com/file
 
 O Diagrama Entidade Relacionamento pode ser encontrado [Aqui](https://drive.google.com/file/d/10P-GrFRHVkuDmQ-KWdnki9hiPs4xWqHe/view?usp=share_link)
 
-<h2>Diagrama Modelo Lógico</h2>
+<h2>13. Diagrama Modelo Lógico</h2>
 
 O Diagrama Modelo Lógico pode ser encontrado [Aqui](https://drive.google.com/file/d/12hmeYk-flMkd99UXb5-Ejd9o4NVSDgNu/view?usp=share_link)
 <hr>
