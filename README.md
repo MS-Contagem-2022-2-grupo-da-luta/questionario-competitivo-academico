@@ -143,4 +143,4 @@ O Diagrama Entidade Relacionamento pode ser encontrado [Aqui](https://drive.goog
 O Diagrama Modelo Lógico pode ser encontrado [Aqui](https://drive.google.com/file/d/12hmeYk-flMkd99UXb5-Ejd9o4NVSDgNu/view?usp=share_link)
 <hr>
 
-Clique [Aqui] (https://drive.google.com/drive/folders/1Ae8g2kchKQdt1sVpcIPEMmW9w7ZeiJqV?usp=share_link) para ter acesso a todos os Diagramas em uma pasta centralizada.
+Clique [Aqui](https://drive.google.com/drive/folders/1Ae8g2kchKQdt1sVpcIPEMmW9w7ZeiJqV?usp=share_link) para ter acesso a todos os Diagramas em uma pasta centralizada.
