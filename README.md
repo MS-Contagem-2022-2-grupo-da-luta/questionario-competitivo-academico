@@ -77,7 +77,7 @@ O protótipo completo com simulação de navegação, encontra-se disponível no
 
 <hr>
 
-<h2>História de usuários</h2>
+<h2>6. História de usuários</h2>
 
 
 |     ID            |     Eu como…                            |     Quero..                                                                                                   |     Para..                                                                            |
@@ -105,7 +105,7 @@ O protótipo completo com simulação de navegação, encontra-se disponível no
 |        05, 06, 09       |     Pesquisar e filtrar questões    |          10        |      5    |                  O usuário ao clicar em “banco de questões” tem   disponível um filtro, no qual ele seleciona de acordo com a área de interesse                |              |
 |            07           |          Favoritar questões         |          7         |      2    |                          O usuário após resolver a questão, tem a opção   de favoritar e ter ela destacada na área “Questões Favoritas”                        |              |
 <hr>
-<h2> Cenário de Casos de Uso </h2>
+<h2> 7. Cenário de Casos de Uso </h2>
 
 |     Nome                    |     USUARIO   01                                                                                                                                                                                                                                                                                                                                                                                               |
 |-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -118,3 +118,29 @@ O protótipo completo com simulação de navegação, encontra-se disponível no
 |     Fluxos Alternativos     |     (2-4) O usuário pode filtrar as questões do banco de questões   com matéria de seu interesse           2.1   Voltar ao passo 3           (1-4)   A qualquer momento, o usuário pode criar grupos           1.1   Usuário pode convidar amigos ao grupo criado           1.2   Usuário pode criar torneio a partir do grupo criado para resolução de   questões           1.3   Voltar ao passo 3           |
 |     Fluxos de Exceções      |                                                                                                                                                                                                                                                                                                                                                                                                                |
 |     Pós- condição           |     As   respostas corretas são computadas no sistema e pontuadas.                                                                                                                                                                                                                                                                                                                                             |
+<h2>8. Diagrama de Caso de Uso</h2>
+
+O Diagrama de Caso de Uso pode ser encontrado [Aqui](https://drive.google.com/file/d/1RUHiM7fQAHJWviswAwha-WHfXkzXGuIV/view?usp=share_link)
+
+<h2>9. Diagrama de Classes </h2>
+
+O Diagrama de Classes pode ser encontrado [Aqui](https://drive.google.com/file/d/1MJDwhK-DpP8QgZLJNAnzGZSlG7l5ungL/view?usp=share_link)
+
+<h2>10. Diagrama de Atividades </h2>
+
+O Diagrama de Atividades pode ser encontrado [Aqui](https://drive.google.com/file/d/1-5Xy-JgVBBf6j-NmpdmD-BrY9McLXhgC/view?usp=share_link)
+
+<h2>11. Diagrama de Sequencia </h2>
+
+O Diagrama de Sequencia pode ser encontrado [Aqui](https://drive.google.com/file/d/1d6HV2Y_LptvB1HFPt_6Lh8YKc0c8twlw/view?usp=share_link)
+
+<h2>12. Diagrama Entidade Relacionamento</h2>
+
+O Diagrama Entidade Relacionamento pode ser encontrado [Aqui](https://drive.google.com/file/d/10P-GrFRHVkuDmQ-KWdnki9hiPs4xWqHe/view?usp=share_link)
+
+<h2>Diagrama Modelo Lógico</h2>
+
+O Diagrama Modelo Lógico pode ser encontrado [Aqui](https://drive.google.com/file/d/12hmeYk-flMkd99UXb5-Ejd9o4NVSDgNu/view?usp=share_link)
+<hr>
+
+Clique [Aqui] (https://drive.google.com/drive/folders/1Ae8g2kchKQdt1sVpcIPEMmW9w7ZeiJqV?usp=share_link) para ter acesso a todos os Diagramas em uma pasta centralizada.
