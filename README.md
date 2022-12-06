@@ -120,27 +120,27 @@ O protótipo completo com simulação de navegação, encontra-se disponível no
 |     Pós- condição           |     As   respostas corretas são computadas no sistema e pontuadas.                                                                                                                                                                                                                                                                                                                                             |
 <h2>8. Diagrama de Caso de Uso</h2>
 
-O Diagrama de Caso de Uso pode ser encontrado [Aqui](https://drive.google.com/file/d/1RUHiM7fQAHJWviswAwha-WHfXkzXGuIV/view?usp=share_link)
+O Diagrama de Caso de Uso pode ser encontrado [Aqui](https://drive.google.com/file/d/1FxLsJckStTy4xTYgin1tW2klfSw_Bxz6/view)
 
 <h2>9. Diagrama de Classes </h2>
 
-O Diagrama de Classes pode ser encontrado [Aqui](https://drive.google.com/file/d/1MJDwhK-DpP8QgZLJNAnzGZSlG7l5ungL/view?usp=share_link)
+O Diagrama de Classes pode ser encontrado [Aqui](https://drive.google.com/file/d/1yBTFrKrsbvkV_RuqkQHmc_s1Os5IsMt7/view)
 
 <h2>10. Diagrama de Atividades </h2>
 
-O Diagrama de Atividades pode ser encontrado [Aqui](https://drive.google.com/file/d/1-5Xy-JgVBBf6j-NmpdmD-BrY9McLXhgC/view?usp=share_link)
+O Diagrama de Atividades pode ser encontrado [Aqui](https://drive.google.com/file/d/1uM-DwsGkklFVUfUz7XXepiTDnj0jpnaV/view)
 
 <h2>11. Diagrama de Sequencia </h2>
 
-O Diagrama de Sequencia pode ser encontrado [Aqui](https://drive.google.com/file/d/1d6HV2Y_LptvB1HFPt_6Lh8YKc0c8twlw/view?usp=share_link)
+O Diagrama de Sequencia pode ser encontrado [Aqui](https://drive.google.com/file/d/1gBmS2cyhyrtqgp-qEAsG4Q7OHRqrG8DN/view)
 
 <h2>12. Diagrama Entidade Relacionamento</h2>
 
-O Diagrama Entidade Relacionamento pode ser encontrado [Aqui](https://drive.google.com/file/d/10P-GrFRHVkuDmQ-KWdnki9hiPs4xWqHe/view?usp=share_link)
+O Diagrama Entidade Relacionamento pode ser encontrado [Aqui](https://drive.google.com/file/d/1ThbmLW-3Wr4lnHLNfjFbs1fJGosiBv-U/view?usp=share_link)
 
 <h2>13. Diagrama Modelo Lógico</h2>
 
-O Diagrama Modelo Lógico pode ser encontrado [Aqui](https://drive.google.com/file/d/12hmeYk-flMkd99UXb5-Ejd9o4NVSDgNu/view?usp=share_link)
+O Diagrama Modelo Lógico pode ser encontrado [Aqui]( https://drive.google.com/file/d/1QphNWkUoek42CdgFpx2qQ29_fv1fIg1I/view)
 <hr>
 
 Clique [Aqui](https://drive.google.com/drive/folders/1Ae8g2kchKQdt1sVpcIPEMmW9w7ZeiJqV?usp=share_link) para ter acesso a todos os Diagramas em uma pasta centralizada.
